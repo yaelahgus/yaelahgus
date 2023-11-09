@@ -13,7 +13,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Agusarifudin10@gmail.com-black?style=flat&logo=Gmail&link=mailto:Agusarifudin10@gmail.com)](mailto:Agusarifudin10@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/Yaelahgus-black?style=flat&logo=github&link=https://github.com/Yaelahgus)](https://www.github.com/Yaelahgus) 
 [![Twitter Badge](https://img.shields.io/badge/-agusarifudin03-black?style=flat&logo=twitter&link=https://twitter.com/agusarifudin03)](https://twitter.com/agusarifudin03) 
-[![Facebook Badge](https://img.shields.io/badge/-Agus-Arifudin-black?style=flat&logo=facebook&link=https://facebook.com/agus.arifudin.10)](https://facebook.com/agus.arifudin.10)
+[![Facebook Badge](https://img.shields.io/badge/-agus.arifudin.10-black?style=flat&logo=facebook&link=https://facebook.com/agus.arifudin.10)](https://facebook.com/agus.arifudin.10)
 [![Instagram Badge](https://img.shields.io/badge/-agus_arifudinnn-black?style=flat&logo=instagram&link=https://instagram.com/agus_arifudinnn)](https://instagram.com/agus_arifudinnn)
 
 
